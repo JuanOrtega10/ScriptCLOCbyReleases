@@ -16,8 +16,14 @@ repositoryLink = "https://github.com/videolan/vlc-android"
 ```
 3. Paste the file script.py to your repository folder.
 
-## Example of output
+4. Run script.py
+```
+python3 script.py
+```
 
+5. The result is named data.json and is located in the same folder that you have been pasted the script.py file
+
+## Example of output
   ```json
 {
    "Valores": [
