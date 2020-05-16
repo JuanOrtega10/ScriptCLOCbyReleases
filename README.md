@@ -14,7 +14,7 @@ apt-get install cloc
 #Download the repository
 repositoryLink = "https://github.com/videolan/vlc-android"
 ```
-3. Paste the file script.py to your repository folder.
+3. Paste the script.py file to your repository folder.
 
 4. Run script.py
 ```
