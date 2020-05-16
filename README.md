@@ -1,5 +1,5 @@
 # ScriptCLOCbyReleases
-A .py that generates a JSON file containing info about lines of code by releases.
+A .py that generates a JSON file containing info about lines of code of your repo by releases.
 
 ## Usage
 
@@ -9,7 +9,7 @@ A .py that generates a JSON file containing info about lines of code by releases
 apt-get install cloc
 ```
 
-2. Put your repository link in the the repositoryLink variable (line 27)
+2. Put your repository link in the repositoryLink variable (line 27)
   ```python
 #Download the repository
 repositoryLink = "https://github.com/videolan/vlc-android"
