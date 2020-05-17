@@ -13,14 +13,16 @@ def appendRegistro(line, header):
         'language': lineSplit[0],
         'files': int(lineSplit[1]),
         'blank': int(lineSplit[2]),
-        'code': int(lineSplit[3])
+        'comment': int(lineSplit[3]),
+        'code': int(lineSplit[4])
         })
     else:
         miniInforme['lineas'].append({
         'language': "C/C++ Header",
         'files': int(lineSplit[2]),
         'blank': int(lineSplit[3]),
-        'code': int(lineSplit[4])
+        'comment': int(lineSplit[4]),
+        'code': int(lineSplit[5])
         })
 
 #Download the repository
