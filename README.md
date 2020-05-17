@@ -35,19 +35,22 @@ python3 script.py
                      "language": "C/C++ Header",
                      "files": 547,
                      "blank": 16296,
-                     "code": 36014
+                     "comment": 36014,
+                     "code": 47825
                   },
                   {
                      "language": "Java",
                      "files": 131,
                      "blank": 5373,
-                     "code": 10199
+                     "comment": 10199,
+                     "code": 24718
                   },
                   {
                      "language": "C",
                      "files": 8,
                      "blank": 311,
-                     "code": 364
+                     "comment": 364,
+                     "code": 1403
                   }
                ],
                "commit": "19ffebd3a9dedfc61a4b74fa44273b96decf9e37",
@@ -63,19 +66,22 @@ python3 script.py
                      "language": "C/C++ Header",
                      "files": 547,
                      "blank": 16296,
-                     "code": 36014
+                     "comment": 36014,
+                     "code": 47825
                   },
                   {
                      "language": "Java",
                      "files": 131,
                      "blank": 5373,
-                     "code": 10199
+                     "comment": 10199,
+                     "code": 24718
                   },
                   {
                      "language": "C",
                      "files": 8,
                      "blank": 311,
-                     "code": 364
+                     "comment": 364,
+                     "code": 1403
                   }
                ],
                "commit": "780303847001f0722a786d6a3d99c0e4378a0843",
